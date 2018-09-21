@@ -1,0 +1,19 @@
+#include <stdio.h>
+
+
+
+int main()
+
+{
+	
+	int X;
+	
+	for (X = 2; X <= 100; X = X + 2) {
+
+	printf("%d\n", X);
+	
+	}
+	
+	return 0;
+
+}
